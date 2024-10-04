@@ -1,9 +1,10 @@
-import ToDoList from "./ToDoList"
+import DigitalClock from "./DigitalClock"
 
 const App = () => {
   return (
     <div>
-  <ToDoList/>
+  <DigitalClock/><br/>
+  
     </div>
   )
 }
